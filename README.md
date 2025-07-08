@@ -1,5 +1,5 @@
 ### projeto carrinho de ecommerce (shopee)
-Este projeto foi feito para por em pratica conceitos de organização de codigo (Clean Folder Structure) e também o ESM (EcmaScript Modules) para importar e exportar valores (funçóes, variáveis, etc).
+Este projeto foi feito para por em pratica conceitos de organização de codigo (Clean Folder Structure) e também o ESM (EcmaScript Modules) para importar e exportar valores (funções, variáveis, etc).
 
 
 
